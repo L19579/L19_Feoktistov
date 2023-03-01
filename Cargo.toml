@@ -1,0 +1,6 @@
+[package]
+name = "L19_Feoktistov"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
